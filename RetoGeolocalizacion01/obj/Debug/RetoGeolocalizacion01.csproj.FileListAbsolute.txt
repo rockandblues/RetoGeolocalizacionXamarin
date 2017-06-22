@@ -1,0 +1,15 @@
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\bin\Debug\RetoGeolocalizacion01.dll
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\bin\Debug\RetoGeolocalizacion01.pdb
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\bin\Debug\RetoGeolocalizacion01.RetoGeolocalizacion01.apk
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\bin\Debug\RetoGeolocalizacion01.RetoGeolocalizacion01-Signed.apk
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\RetoGeolocalizacion01.csprojResolveAssemblyReference.cache
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\RetoGeolocalizacion01.dll
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\RetoGeolocalizacion01.pdb
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\android\bin\RetoGeolocalizacion01.RetoGeolocalizacion01.apk
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\res\layout\main.xml
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\res\values\strings.xml
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\res\drawable\icon.png
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\R.cs.flag
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\uploadflags.txt
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\bin\Debug\RetoGeolocalizacion01.dll.mdb
+D:\Data\Cursos\Xamarin\Xamarin 3.0\Labs\RetoGeolocalizacion01\RetoGeolocalizacion01\obj\Debug\android\assets\RetoGeolocalizacion01.dll.mdb

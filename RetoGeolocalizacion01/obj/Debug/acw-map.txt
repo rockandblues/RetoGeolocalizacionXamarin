@@ -1,0 +1,4 @@
+RetoGeolocalizacion01.MainActivity, RetoGeolocalizacion01;md58ff748a7411b896acba3076faabec911.MainActivity
+RetoGeolocalizacion01.MainActivity, RetoGeolocalizacion01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58ff748a7411b896acba3076faabec911.MainActivity
+RetoGeolocalizacion01.MainActivity;md58ff748a7411b896acba3076faabec911.MainActivity
+retogeolocalizacion01.MainActivity;md58ff748a7411b896acba3076faabec911.MainActivity
